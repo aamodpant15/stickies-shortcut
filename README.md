@@ -15,4 +15,4 @@ Now, a method of activation may be added as per personal choice (for example, ke
 
 Since I have MacBook with a touchpad, I like to go to **System Preferences > Keyboard**, and in the dropdown menu for **"Press Fn key to"**, I choose **"Show Quick Actions"**. Now, at any time, if you press the fn key, your touchbar will show this-
 
-![Quick Actions, touchbar](/Users/aamodpant/Desktop/Touch Bar Shot 2020-08-04 at 12.13.52 PM.png)
+![Quick Actions, touchbar](https://github.com/aamodpant15/OSX/blob/master/touchbarSS.png)
