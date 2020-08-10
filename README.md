@@ -3,7 +3,7 @@ Implementation is easy
 
 
 1. Open the macOS Automator app, by going into Applications, or by pressing down 
-  command + Spacebar
+  command + Spacebar, and searching for it.
 2. Create a **new Quick Action**
 3. In the list of Actions on the left, choose **"Run AppleScript"**
 4. Copy+Paste the code from any of the workflow files, in place of all the purple code
@@ -13,6 +13,6 @@ Implementation is easy
 
 Now, a method of activation may be added as per personal choice (for example, keyboard shortcut through **System Preferences > Keyboard > Shortcuts > Services**
 
-Since I have MacBook with a touchpad, I like to go to **System Preferences > Keyboard**, and in the dropdown menu for **"Press Fn key to"**, I choose **"Show Quick Actions"**. Now, at any time, if you press the fn key, your touchbar will show this-
+Since I have MacBook with a touchpad, I like to go to **System Preferences > Keyboard**, and in the dropdown menu for **"Press Fn key to"**, choose **"Show Quick Actions"**. Now, at any time, if you press the fn key, your touchbar will show this-
 
 ![Quick Actions, touchbar](https://github.com/aamodpant15/OSX/blob/master/touchbarSS.png)
